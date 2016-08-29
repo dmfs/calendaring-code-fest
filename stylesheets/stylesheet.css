@@ -245,3 +245,12 @@ a {
 .cf {
   zoom:1;
 }
+
+
+.insertat:before {
+	content:	"@";
+}
+
+.insertdot:before {
+	content:	".";
+}
